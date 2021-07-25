@@ -21,20 +21,20 @@
         </tr>
         <tr>
             <td>lightboxSliderGallery</td>
-            <td><a href="https://github.com/hasan-furkan/lightboxSliderGallery" target="_blank">Repo details</a></td>
-            <td><a href="https://hasan-furkan.github.io/lightboxSliderGallery/" target="_blank">Click here to see the project</a></td>
+            <td><a href="https://github.com/sofiadurkan1/Lightbox_Gallery" target="_blank">Repo details</a></td>
+            <td><a href="https://sofiadurkan1.github.io/Lightbox_Gallery/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gif/slider.gif" alt="html" height=130></td> 
         </tr>
         <tr>
             <td>temperatureConverter</td>
-            <td><a href="https://github.com/hasan-furkan/temperatureConverter" target="_blank">Repo details</a></td>
-            <td><a href="https://hasan-furkan.github.io/temperatureConverter/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="#" alt="html" height=130></td> 
+            <td><a href="https://github.com/sofiadurkan1/Temperature_Converter" target="_blank">Repo details</a></td>
+            <td><a href="https://sofiadurkan1.github.io/Temperature_Converter/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gif/temperature.gif" alt="html" height=130></td> 
         </tr>  
         <tr>
             <td>weatherApp</td>
-            <td><a href="https://github.com/hasan-furkan/weatherApp" target="_blank">Repo details</a></td>
-            <td><a href="https://hasan-furkan.github.io/weatherApp/" target="_blank">Click here to see the project</a></td>
+            <td><a href="https://github.com/sofiadurkan1/Weather_App" target="_blank">Repo details</a></td>
+            <td><a href="https://sofiadurkan1.github.io/Weather_App/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="#" alt="html" height=130></td> 
         </tr>
 </tbody>
