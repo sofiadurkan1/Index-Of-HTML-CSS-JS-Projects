@@ -37,5 +37,17 @@
             <td><a href="https://sofiadurkan1.github.io/Weather_App/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="#" alt="html" height=130></td> 
         </tr>
+        <tr>
+            <td>ParallaxWebsite</td>
+            <td><a href="https://github.com/sofiadurkan1/Parallax_Website" target="_blank">Repo details</a></td>
+            <td><a href="https://sofiadurkan1.github.io/Parallax_Website/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="#" alt="html" height=130></td> 
+        </tr>
+        <tr>
+            <td>ParallaxWebsiteTwo</td>
+            <td><a href="https://github.com/sofiadurkan1/Parallax_Two" target="_blank">Repo details</a></td>
+            <td><a href="https://sofiadurkan1.github.io/Parallax_Two/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="#" alt="html" height=130></td> 
+        </tr>
 </tbody>
 </table>
